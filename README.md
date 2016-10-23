@@ -1,2 +1,1 @@
-# tensor
-noob tensorflow
+# tensor codes get by tutorials
