@@ -1,5 +1,7 @@
 #! /usr/bin/env python2
 
+# This is a LSTM sample for generate cities names from a list of US cities
+
 from __future__ import absolute_import, division, print_function
 
 import os
